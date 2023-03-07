@@ -13,3 +13,10 @@
 .fa-solid {
     margin: 1rem;
 }
+
+@media only screen and (max-width: 420px) {
+.text-section {
+    width: 100%;
+    text-align: center;
+}
+}

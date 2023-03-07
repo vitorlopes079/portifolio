@@ -251,6 +251,10 @@ width: 50%
         background-color: #0077B6;;
     }
 
+    li a:hover {
+        color: #03045E;
+    }
+
     ul li:nth-child(5) {
         display: list-item;
       }
