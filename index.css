@@ -75,6 +75,11 @@ button a {
     color: #03045E;
 }
 
+button a:active {
+    text-decoration: none;
+    color: #03045E;
+}
+
 button:hover {
     font-size: 1.19rem;
     background-color: #0077B6;
